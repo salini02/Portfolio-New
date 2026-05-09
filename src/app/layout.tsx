@@ -17,7 +17,7 @@ export const metadata: Metadata = {
   title: "Salini Herath",
   description: "Portfolio of Salini Herath",
   icons: {
-    icon: "/dp.jpg",
+    icon: "./dp.jpg",
   },
 };
 

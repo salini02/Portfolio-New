@@ -28,7 +28,7 @@ export default function ContactSection() {
             <div className="text-left">
               <h3 className="text-lg md:text-xl font-semibold">Email Us</h3>
               <span className="text-sm md:text-base text-gray-200">
-                salini.herath*@gmail.com
+                salini.herath8@gmail.com
               </span>
             </div>
           </a>

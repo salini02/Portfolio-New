@@ -24,11 +24,11 @@ export function AboutSection() {
         <div className="w-full sm:w-1/2 text-center sm:text-left">
           <HeroHighlightDemo />
           <p className="text-white text-lg sm:text-xl font-semibold mt-4">
-            A dedicated Web and Mobile App Developer with strong expertise in
-            building scalable, high-performance applications. I specialize in
-            developing full-stack solutions using modern technologies, focusing
-            on microservices architecture, Docker, and cloud services to ensure
-            reliability, scalability, and seamless integration.
+            A dedicated Quality Assurance Engineer with strong expertise in ensuring the delivery of high-quality, 
+            reliable, and user-friendly software products. With hands-on experience in testing concepts, debugging, 
+            and problem-solving, I am eager to contribute as a QA Engineer by identifying defects, improving system 
+            performance, and enhancing user experience. I am committed to continuous learning, applying best QA practices, 
+            and collaborating effectively within development teams to deliver robust and efficient solutions.
           </p>
         </div>
 

@@ -17,6 +17,22 @@ export function CardHoverEffectDemo() {
 }
 export const projects = [
   {
+    icon: <IconCloudComputing className="text-blue-500 w-12 h-12" />,
+    title: "Quality Assurance & Testing",
+    description:
+      "Ensuring reliable, high-performing, and user-friendly applications through testing, debugging, and quality assurance practices to enhance software quality, performance, and user experience.",
+    link: "3",
+    moreDetails: [
+      "Manual, Automation & Functional Testing",
+      "Bug Tracking & Defect Management",
+      "UI/UX & Usability Testing",
+      "Test Case Design & Execution",
+      "Performance & Regression Testing",
+      "Quality Assurance Best Practices",
+    ],
+  },
+
+  {
     icon: <IconAppWindow className="text-blue-500 w-12 h-12" />,
     title: "Custom Web Development",
     description:
@@ -42,19 +58,7 @@ export const projects = [
       "App Store & Play Store Publishing",
     ],
   },
-  {
-    icon: <IconCloudComputing className="text-blue-500 w-12 h-12" />,
-    title: "Microservices & Cloud Solutions",
-    description:
-      "Leverage the power of microservices architecture for scalable, flexible, and efficient solutions. With Docker and cloud services (AWS, Google Cloud, Azure), I create applications that can scale with your business needs.",
-    link: "3",
-    moreDetails: [
-      "Microservices Architecture",
-      "Docker & Containerization",
-      "Cloud Infrastructure Setup & Management",
-      "Serverless Architecture",
-    ],
-  },
+
   {
     icon: <IconApi className="text-blue-500 w-12 h-12" />,
     title: "API Development & Integration",
